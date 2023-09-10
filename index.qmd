@@ -1,11 +1,12 @@
 ---
-title: "elisapierfederici"
+title: "Elisa Pierfederici"
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+   - text: LinkedIn
+      href: https://www.linkedin.com/in/maria-elisa-pierfederici-5392aa182/
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi there!
