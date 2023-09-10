@@ -1,12 +1,14 @@
 ---
-title: "Elisa Pierfederici"
-about: 
+title: "Maria Elisa Pierfederici's Portfolio"
+about:
   template: trestles
   image-shape: round
   image-width: 23em
-  links:
-   - text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
+links:
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/maria-elisa-pierfederici-5392aa182/
+  - text: GitHub
+    href: https://github.com/mariapie
 ---
 
 Hi there!
