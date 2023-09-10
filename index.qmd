@@ -6,7 +6,7 @@ about:
   image-width: 23em
   links:
    - text: LinkedIn
-      href: https://www.linkedin.com/in/maria-elisa-pierfederici-5392aa182/
+      href: https://www.linkedin.com/in/samanthacsik/
 ---
 
 Hi there!
