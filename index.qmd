@@ -1,5 +1,6 @@
 ---
-title: "Maria Elisa Pierfederici's Portfolio"
+title: "Elisa Pierfederici"
+image: profile.JPG
 about:
   template: trestles
   image-shape: round
