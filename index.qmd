@@ -1,6 +1,6 @@
 ---
 title: "Elisa Pierfederici"
-image: profile.JPG
+image: IMG_0788.png
 about:
   template: trestles
   image-shape: round

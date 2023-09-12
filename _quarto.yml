@@ -4,6 +4,7 @@ project:
 
 website:
   title: "elisapierfederici"
+  image: IMG_0788.png
   navbar:
     left:
       - href: index.qmd
