@@ -14,7 +14,9 @@ website:
 
 format:
   html:
-    theme: Sandstone
+    theme: 
+      light: minty
+      dark: Sandstone
     css: styles.css
     page-layout: full
 
