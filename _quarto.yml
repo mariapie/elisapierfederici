@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: lumen
+    theme: slate
     css: styles.css
     page-layout: full
 

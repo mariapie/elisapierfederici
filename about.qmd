@@ -2,11 +2,11 @@
 title: "About"
 ---
 
-\## About Me
+# About Me
 
 I'm a Researcher and Consultant with expertise in:
 
-\- Data Analysis
+- Data Analysis
 
 \- Data Management
 
