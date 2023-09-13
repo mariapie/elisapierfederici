@@ -2,8 +2,40 @@
 title: "About"
 ---
 
-About this site
+\## About Me
 
-```{r}
-1 + 1
-```
+I'm a Researcher and Consultant with expertise in:
+
+\- Data Analysis
+
+\- Data Management
+
+\- Open Research
+
+As a Research Consultant at the Digital Centre, I assist researchers in:
+
+\- Designing optimal study designs
+
+\- Data management
+
+\- Programming language instruction
+
+\- Publication strategies
+
+Living and working with three languages, I embrace cultural diversity and contribute to global scientific endeavors.
+
+<!-- You can insert an image here once you have one -->
+
+<!-- ![Your Image Alt Text](your-image-url.jpg) -->
+
+\# Projects
+
+Here are some of my notable projects:
+
+1\. Project 1
+
+ - Description of Project 1.
+
+2\. Project 2
+
+ - Description of Project 2.!
