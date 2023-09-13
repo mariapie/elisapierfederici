@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: LUX
     css: styles.css
     page-layout: full
 
