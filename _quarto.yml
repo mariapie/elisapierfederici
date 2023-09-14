@@ -17,10 +17,10 @@ website:
     left: 
       - "Copyright 2023, Elisa Pierfederici"
     right:
-    - icon: LinkedIn
-      href: https://www.linkedin.com/in/maria-elisa-pierfederici-5392aa182/
-    - icon: GitHub
-      href: https://github.com/mariapie
+      - icon: LinkedIn
+        href: https://www.linkedin.com/in/maria-elisa-pierfederici-5392aa182/
+      - icon: GitHub
+        href: https://github.com/mariapie
     
 format:
   html:
