@@ -3,32 +3,37 @@ project:
   output-dir: docs
 
 website:
-  title: "Elisa Pierfderici"
+  title: "Elisa Pierfederici"
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Teaching.qmd
-      - Projects.qmd
-      - Blog.qmd
-    page-footer: 
-    background: light
-    left: 
-      - "Copyright 2023, Elisa Pierfederici"
-    right:
-      - icon: LinkedIn
-        href: https://www.linkedin.com/in/maria-elisa-pierfederici-5392aa182/
-      - icon: GitHub
-        href: https://github.com/mariapie
-    
+      - href: about.qmd
+        text: About
+      - href: Teaching.qmd
+        text: Teaching
+      - href: Projects.qmd
+        text: Projects
+      - href: Blog.qmd
+        text: Blog
+    page-footer:
+      background: light
+      left:
+        - "Copyright 2023, Elisa Pierfederici"
+      right:
+        - icon: LinkedIn
+          href: https://www.linkedin.com/in/maria-elisa-pierfederici-5392aa182/
+        - icon: GitHub
+          href: https://github.com/mariapie
+
 format:
   html:
-    theme: 
+    theme:
       light: minty
       dark: Sandstone
     css: styles.css
     page-layout: full
+
 
 
 
