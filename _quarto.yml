@@ -31,7 +31,7 @@ format:
     theme:
       light: minty
       dark: Sandstone
-    css: styles.css
+    css: styles.scss
     page-layout: full
 
 
